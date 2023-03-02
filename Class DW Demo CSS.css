@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+	font-size: 80px;
+	color:#D12B2E;
+	background-color: #AEE8DE
+}
+h2{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+	font-size: 65px;
+	color:#0F6F3D;
+}
+h3{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: center;
+	font-size: 25px;
+	color:#3220D2;
+	background-color: #AEE8DE
+}
+h4{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+	font-size: 15px;
+	color:#177491;
+}
